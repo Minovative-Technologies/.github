@@ -69,11 +69,7 @@ Let’s reshape technology, together.
 ---
 
 📌 [Star our Projects](https://github.com/Minovative-Technologies)
-
-💬 [Minovative Mind Discord](https://discord.gg/KFkMgAH3EG)
-
-💖 [Sponsor on GitHub](https://github.com/sponsors/Minovative-Technologies)
-
 📣 [Follow on X](https://x.com/minovative_tech)
-
-🌐 [Patreon](https://patreon.com/MinovativeTechnologies)
+💬 [Minovative Mind Discord](https://discord.gg/KFkMgAH3EG)
+💖 [Sponsor on GitHub](https://github.com/sponsors/Minovative-Technologies)
+🌐 [Patreon](https://www.patreon.com/c/MinovativeTechnologies/membership)
