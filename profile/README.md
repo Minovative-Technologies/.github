@@ -73,5 +73,7 @@ Let’s reshape technology, together.
 💬 [Minovative Mind Discord](https://discord.gg/KFkMgAH3EG)
 🌐 [Patreon](https://www.patreon.com/c/MinovativeTechnologies/membership)
 
+--- 
+
 Pending approval, and isn't live yet...
 💖 [Sponsor on GitHub](https://github.com/sponsors/Minovative-Technologies)
